@@ -1,0 +1,29 @@
+.articleCard {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    background-color: thistle;
+    border: solid plum;
+    border-width: medium;
+    padding: 30px;
+    margin: 30px auto;
+    max-width: 900px;
+    font-family: Helvetica;
+}
+
+.articleCardImage {
+    border: solid plum;
+    border-radius: 8px;
+    width: 200px;
+    height: 200px;
+}
+
+.articleCardImage img {
+    height: auto;
+    width: 100%;
+}
+
+.articleCardContent {
+    width: 600px;
+    flex-shrink: 0;
+}

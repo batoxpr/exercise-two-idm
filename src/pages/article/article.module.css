@@ -1,0 +1,32 @@
+.articleHeader {
+    border: solid plum;
+    height: 200px;
+    text-align:center;
+    background-size: cover;
+    font-family: Helvetica;
+    margin: 0 auto;
+    padding: 40px 20px 20px;
+}
+
+.articleBody {
+    margin: 0 auto;
+    max-width: 600px;
+    gap: 30px;
+    padding: 30px;
+    margin: 30px auto;
+    font-family: Helvetica;
+    background-color: snow;
+    border: solid plum;
+    border-width: medium;
+}
+
+
+.article {
+    font-family: Helvetica;
+
+}
+
+.articleTitle {
+    font-weight: bold;
+    font-size: x-large;
+}

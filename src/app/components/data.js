@@ -58,7 +58,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://www.munchiecat.com/cdn/shop/articles/Munchiecat-Best_10_Japanese_Sakura_Cherry_Blossom_Cat_Products_1172x.jpg?v=1678818138",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 05 2019 10:04:38 GMT-0400"
@@ -90,7 +90,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://www.munchiecat.com/cdn/shop/articles/Munchiecat-Best_10_Japanese_Sakura_Cherry_Blossom_Cat_Products_1172x.jpg?v=1678818138",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 06 2019 18:04:38 GMT-0400"
@@ -122,7 +122,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://www.munchiecat.com/cdn/shop/articles/Munchiecat-Best_10_Japanese_Sakura_Cherry_Blossom_Cat_Products_1172x.jpg?v=1678818138",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 08 2019 12:04:38 GMT-0400"
@@ -154,7 +154,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://www.munchiecat.com/cdn/shop/articles/Munchiecat-Best_10_Japanese_Sakura_Cherry_Blossom_Cat_Products_1172x.jpg?v=1678818138",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 10 2019 12:04:38 GMT-0400"
@@ -194,7 +194,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://www.munchiecat.com/cdn/shop/articles/Munchiecat-Best_10_Japanese_Sakura_Cherry_Blossom_Cat_Products_1172x.jpg?v=1678818138",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"
